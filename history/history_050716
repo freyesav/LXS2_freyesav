@@ -1,0 +1,16 @@
+    1  cd lsx_2
+    2  cd LSX_2
+    3  history >history
+    4  mkdir history
+    5  history > history/history_050716
+    6  cd..
+    7  cd ..
+    8  ls
+    9  tree
+   10  cd LSX2
+   11  ls
+   12  git add history/
+   13  git status
+   14  ls
+   15  tree
+   16  history > history/history_050716 
