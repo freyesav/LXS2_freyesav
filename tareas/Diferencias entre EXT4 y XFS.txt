@@ -1,0 +1,46 @@
+﻿
+
+Los principales sustitutos de EXT4 ( ZFS, XFS, BRTFS )
+
+ by Alex Vaqué |   posted in: General, In detail, OpenSource |  2  
+
+
+Ext4 tiene defectos de diseño que cada vez cuesta más superar y Ext4 ya no tiene las ventajas que tenía antes en comparación BRTFS, ZFS, XFS u otros. Por ejemplo, Ext4 es muy bueno hasta llegar a sistemas de archivos de hasta 16TB. Ext4 sigue siendo una opción estable y segura pero ya empezamos a ver que si quieres tener una partición de más de 1EB o si quieres almacenar archivos de más de 16TB pues entonces si que necesitas sistemas como ZFS o BRTFS. Además estos, tiene soporte para últimas tecnologías como SSD donde se notan una mejoría con respecto a Ext4. Además vemos que en los últimos Kernels de Linux con BRTFS ya empieza a superar en rendimiento al Ext4 y luego vemos que el ZFS se esta empezando a usar más en el mundo Linux y no solamente en Solaris y FreeBSD que es donde provenía en un principio.
+
+
+
+
+Bibliografía
+
+http://www.cloudadmins.org/2014/06/los-principales-substitutos-de-ext4-zfs-xfs-brtfs/
+
+
+
+
+Red Hat piensa que XFS es mejor sistema de archivos que Ext4 
+
+
+
+Hace cosa de un año escribí una entrada sobre el renacer de XFS. Hace unos días se supo que Red Hat no sólo va a soportar XFS en RHEL 7, sino que planea usarlo como sistema de archivos por defecto.
+
+ Retomando la cuestión, si dejamos a un lado los de última generación (ZFS/Btrfs), XFS es el mejor sistema de archivos. La razón por la que la familia Ext ha tenido mayor protagonismo en Linux es que, como se ha recalcado aquí, los sistemas de archivo son como los navegadores web: la calidad de la implementación importa mucho más que el formato o estándar a implementar. Hasta el punto de que un sistema de archivos obsoleto, como Ext4, es uno de los mejores por tener una buena implementación, mientras que Reiserfs v3 tienen un formato mejor, pero una implementación desfasada.
+
+ XFS tiene un buen diseño, y, en parte, una buena implementación. Su problema fue que al pasar de Irix a Linux, la implementación no encajó demasiado bien. Tardaron años en adaptarlo. Pero ese inconveniente ya está superado, se ha solucionado la lentitud del journaling con archivos pequeños, y por otra parte Ext4 tiene defectos de diseño que cada vez cuesta más superar, y que ni tan siquiera una buena implementación puede evitar. Ext4 ya no tiene la ventaja y no hay razones para no usar XFS.
+
+ Por otro lado tenemos a Btrfs. Es el futuro a largo plazo, pero recuerden que, en realidad, las principales novedades de estos sistemas de archivos de próxima generación no son mejoras para el rendimiento y la escalabilidad de operaciones cotidianas, sino mejoras en la gestión de almacenamiento: expansión a múltiples discos, snapshots, subvolumes, checksums (las mejoras puntuales del modelo copy-on-write y el RAID integrado son más bien una consecuencia de lo anterior). En materia de rendimiento y escalabilidad pura y dura, ni ZFS ni Btrfs dan miedo a XFS; de hecho a menudo tiene algunas ventajas sobre ellos. Hacer copias redundantes de los metadatos, por ejemplo, da seguridad, pero escribir al disco dos veces los mismos datos siempre va a ser más lento que no hacerlo, y para quienes llevan la capacidad de los discos al límite, eso importa.
+
+ De ahí que el panorama linuxero de sistemas de archivos esté evolucionando hacia una dualidad: XFS para servidores "serios" que necesitan el máximo rendimiento (bases de datos, virtualización, etc), Btrfs para lo demás, Ext4 como opción estable y segura. Y el peso de Red Hat tras esta decisión va a consolidar definitivamente este panorama. 
+
+
+
+Bibliografía:
+http://diegocg.blogspot.com.es/2013/06/red-hat-xfs-es-mejor-sistema-de.html
+
+
+
+
+En la siguiente URL encontrará interesante gráfica 
+
+https://andalinux.wordpress.com/2013/06/12/espacio-ocupado-por-distintos-sistemas-de-archivos-ext3ext4fat32ntfs/
+
+(Por ser Txt, no me permite pegarle la imagen)
