@@ -1,0 +1,182 @@
+    1  nmap [3
+    2  nmap 10.124.18.129
+    3  fdisk -l
+    4  netstat -ltunpa
+    5  clear
+    6  fdisk /dev/sda
+    7  shutdown -r now
+    8  sudo -s
+    9  sudo su -
+   10  apt - get install git
+   11  apt-get install git
+   12  ls
+   13  exit
+   14  ls
+   15  git clone https://github.com/freyesav/LXS2_freyesav.git
+   16  ls
+   17  apt -get git install
+   18  apt - get git install
+   19  clear
+   20  sudo -s
+   21  git clone https://github.com/freyesav/LXS2_freyesav.git
+   22  ls
+   23  cd lxs2
+   24  cd LXS2_freyesav/
+   25  ls
+   26  cd hisory
+   27  cd history
+   28  ls
+   29  git status
+   30  git add history_120716
+   31  git status
+   32  ls
+   33  git commit
+   34  git commit "History_LVM"
+   35  git config --global user.email "freyes.av@gmail.com"
+   36  git config --global user.name "freyesav"
+   37  git commit "History_LVM"
+   38  exit
+   39  sudo su -
+   40  vgdisplay server01
+   41  sudo su -
+   42  sudo su -
+   43  ls
+   44  LXS2_freyesa git add history_120716-ubuntu008
+   45  cd history
+   46  LXS2_freyesav/ls
+   47  ls
+   48  cd LXS2_freyesav/
+   49  ls
+   50  cd history
+   51  git add history-root_120716-ubuntu008 
+   52  ls
+   53  git add history_root_120716-ubuntu008 
+   54  sudo su-
+   55  apt-get install tree
+   56  sudo -s
+   57  apt-get install tree
+   58  ls
+   59  exit
+   60  id
+   61  ssh 
+   62  ifconfig
+   63  ssh 10.124.18.187
+   64  ls
+   65  cd LXS2_freyesav/
+   66  cd /tmp
+   67  git clone https://github.com/emvarg/LXS2_evargas.git
+   68  ls
+   69  cd LXS2_evargas/
+   70  ls
+   71  cd scripts
+   72  ls
+   73  ls -l
+   74  vim
+   75  cd ..
+   76  git pull origin master
+   77  tree
+   78  apt-get install tree
+   79  tree
+   80  clear
+   81  cd ..
+   82  clear
+   83  ls
+   84  sudo -s
+   85  clear
+   86  ls
+   87  cd root}
+   88  cd root
+   89  clear
+   90  sudo -s
+   91  ls
+   92  cd tmp
+   93  ls
+   94  LXS2_evargas/ls
+   95  history
+   96  ls
+   97  cd LXS2_evargas/
+   98  ls
+   99  exit
+  100  ls
+  101  clear
+  102  /etc/libvirt/storage/
+  103  ls
+  104  cd etc
+  105  ls
+  106  mount
+  107  tree
+  108  mnt
+  109  /mount
+  110  /mount ?
+  111  /srv
+  112  cd srv
+  113  cd /srv/
+  114  ls
+  115  cd /servidores/
+  116  cd /servidores
+  117  mkdir servidores
+  118  mkdir respaldos
+  119  mkdir porrespaldar
+  120  tree
+  121  tar -pczf data01-respaldo-15072016.tar.gz porrespaldar
+  122  ls
+  123  scp data01-respaldo-15072016.tar.gz sysadmin@192.168.122.45:
+  124  history
+  125  ls -l
+  126  htop
+  127  cd ..
+  128  cd /history
+  129  history
+  130  exit
+  131  ls
+  132  sudo -s
+  133  ls
+  134  cd LXS2_freyesav/ls
+  135  man bash
+  136  bash --version
+  137  echo $ bash version
+  138  cd temp
+  139  ls
+  140  mkdir tmp
+  141  ls
+  142  cd tmp
+  143  touch file1
+  144  ls
+  145  history > file1
+  146  mkdir folder {1,2,3}
+  147  touch folder{1,2,3}
+  148  tree
+  149  mkdir folder
+  150  mv folder folder -m
+  151  mv folder folder-m
+  152  mv folder{1,2,3} folder
+  153  mv folder{1,2,3} folder-m 
+  154  tree
+  155  cd folder-m
+  156  tree
+  157  cd ..
+  158  clear
+  159  cd tmp
+  160  cd folder
+  161  ls
+  162  cd folder-m
+  163  cd history
+  164  cd ..
+  165  ls
+  166  cd ..
+  167  ls
+  168  history
+  169  hystory > history_'date +%Y%m%d'
+  170  history > history_'date +%Y%m%d'
+  171  htop
+  172  sudo su -
+  173  ls
+  174  cd LXS2
+  175  cd LXS2_freyesav/
+  176  ls
+  177  cd history
+  178  hystory > history_'date +%Y%m%d'
+  179  hystory > history_190716
+  180  hystory > history_190716 $HOSTNAME
+  181  history > history_190716 $HOSTNAME
+  182  history > history_190716 
