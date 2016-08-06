@@ -1,0 +1,385 @@
+    1  apt-get install tree
+    2  ping 8.8.8.8
+    3  ipv4 addrr
+    4  ip addrr
+    5  ifconfig
+    6  ip addrr ?
+    7  man ip
+    8  ipv4 addrr
+    9  ipv4 ?
+   10  ip ?
+   11  ipv4 -o
+   12  ifconfig -a
+   13  exit
+   14  tree
+   15  apt-get install tree
+   16  yum install tree
+   17  history
+   18  apt-get install tree
+   19  su
+   20  cd ..
+   21  clear
+   22  exit
+   23  ifconfig -a
+   24  exit
+   25  apt-get install tree 
+   26  ping yahoo.com
+   27  ping 8.8.8.8
+   28  ping 127.0.0.1
+   29  ping www.google.com
+   30  apt-get update
+   31  apt-get upgrade
+   32  apt-get install git
+   33  -bash apt-get install tree
+   34  clear
+   35  df -h
+   36  ?
+   37  help
+   38  apt-get install tree 
+   39  sudo apt-get install tree
+   40  ping yahoo.com
+   41  ifconfig
+   42  su sysadmin
+   43  apt-get install tree
+   44  exit
+   45  sudo rpm -Uhv http://pacages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rfx86_64.rpm
+   46  ping 8.8.8.8
+   47  nmclid
+   48  exit
+   49  ping 8.8.8.8
+   50  sudo rpm -Uhv http://pacages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rfx86_64.rpm
+   51  ping 8.8.8.8
+   52  sudo rpm -Uhv http://pacages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rfx86_64.rpm
+   53  sudo rpm -Uhv http://packages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rfx86_64.rpm
+   54  rpm -Uhv http://packages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rfx86_64.rpm
+   55  yum update
+   56    sudo yum install catdog
+   57  xls2scv
+   58   clear
+   59  catdog
+   60  yum install catdog
+   61  ping 8.8.8.8
+   62  yum install catdoc
+   63   sudo yum install catdoc
+   64  pwd
+   65  tree
+   66  cd ..
+   67  exit
+   68  yum install tree
+   69  tree
+   70  mkdir history
+   71  cd hostory
+   72  cd history
+   73  mkdif history
+   74  tree
+   75  exit
+   76  tree
+   77  mkdir history
+   78  ls
+   79  cd history
+   80  mkdir history
+   81  cd ..
+   82  tree
+   83  ls
+   84  mkdir hojasExcel
+   85  tree
+   86  cd hojasExcel
+   87  mkdir hojasDatos
+   88  cd hojasDatos
+   89  touch datos.xls {1,2,3,4,5}
+   90  tree
+   91  rm 1
+   92  tree
+   93  rm 2
+   94  rm 3
+   95  rm 4
+   96  rm 5
+   97  tree
+   98  rm datos .xls
+   99  tree
+  100  cd ..
+  101  tree
+  102  cd hojasDatos
+  103  exit
+  104  tree
+  105  rm datos.xls
+  106  ls
+  107  cd hojasDatos
+  108  cd hojasExcel
+  109  ls
+  110  cd hojasDatos
+  111  ls
+  112  rm datos.xls
+  113  ls
+  114  cd ..
+  115  ls
+  116  cd hojasDatos
+  117  pwd
+  118  ls
+  119  touch datos1.xls
+  120  touch datos2.xls
+  121  touch datos3.xls
+  122  touch datos4.xls
+  123  touch datos5.xls
+  124  touch datos_CSV
+  125  cd datos_CSV
+  126  rm datos_CSV
+  127  tree
+  128  cd ..
+  129  tree
+  130  clear
+  131  exit
+  132  tree
+  133  cd hojasDatos
+  134  cd  history
+  135  ls
+  136  cd history
+  137  ls
+  138  cd ..
+  139  cd hojasExcel
+  140  ls
+  141  cd ..
+  142  ls
+  143  cd hojasExcel
+  144  cd hojasDatos
+  145  pwd
+  146  mkdir datos_CSV
+  147  cd datos_CSV
+  148  touch dato-0.csv
+  149  touch dato-0.out
+  150  touch dato-1.csv
+  151  touch dato-1.out
+  152  touch dato-2.csv
+  153  touch dato-2.out
+  154  touch dato-3.csv
+  155  touch dato-3.out
+  156  touch dato-4.csv
+  157  touch dato-4.out
+  158  cd ..
+  159  tree
+  160  cd ..
+  161  tree
+  162  mk src
+  163  mkdir src
+  164  tree
+  165  cd src
+  166  touch error1.log
+  167  touch error2.log
+  168  touch graficar.sh
+  169  cd ..
+  170  tree
+  171  cd ..
+  172  tree
+  173  mkdir problema2
+  174  tree
+  175  cd problema2
+  176  touch bills01_2012.xls
+  177  touch bills02_2012.xls
+  178  touch bills03_2012.xls
+  179  touch bills04_2012.xls
+  180  touch bills05_2012.xls
+  181  touch bills06_2012.xls
+  182  cd ..
+  183  tree
+  184  mkdir problema1
+  185  cd problema1
+  186  mkdir datos
+  187  cd ..
+  188  tree
+  189  mkdir src
+  190  cd src
+  191  touch problema2.sh
+  192  touch problema1.sh
+  193  touch SpecVar.sh
+  194  touch traSSh.sh
+  195  touch script1.sh
+  196  tree
+  197  cd ..
+  198  tree
+  199  git status
+  200  ls
+  201  git status
+  202  .
+  203  man .
+  204  clear
+  205  yum install git
+  206  yum -y update
+  207   yum install catdoc
+  208  yum install xls2csv
+  209  yum install catdoc
+  210  yum groupinfo 'GNOME Desktop Enviroment'
+  211  yum groupinfo 'X Window System'
+  212  yum groupinstall 'GNOME Desktop Enviroment'
+  213  yum groupinstall 'GNOME Desktop Environment'
+  214  sudo rpm -Uhv http://packages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.rfx86_64.rpm
+  215  sudo rpm -Uhv http://packages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rf.x86_64.rpm
+  216  sudo yum update
+  217  sudo yum install catdoc
+  218  git clone http://github.com/freyesav/LXS2_freyesav.git
+  219  ls
+  220  cd LXS2_freyesav/
+  221  ls
+  222  rm history_290716 history
+  223  rm history history_290716 
+  224  clear
+  225  ls
+  226  cd history
+  227  ls
+  228  cd history
+  229  cd ..
+  230  ls
+  231  cd ..
+  232  exit
+  233  ls
+  234  tree
+  235  git status
+  236  cd LXS2_freyesav/tree
+  237  ls
+  238  git status
+  239  yum install git
+  240  cd LXS2_freyesav/
+  241  ls
+  242  git status
+  243  tree
+  244  ls
+  245  cd ..
+  246  ls
+  247  tree
+  248  man ls
+  249  ls -T
+  250  ls
+  251  man tree
+  252  tree -L
+  253  tree
+  254  exit
+  255  tree
+  256  git status
+  257  ls
+  258  cd LXS2_freyesav/ls
+  259  cd LXS2_freyesav
+  260  ls
+  261  cd ..
+  262  mv hojasExcel LSX2_freyesav
+  263  mv problema1 LXS2_freyesav/
+  264  mv problema2 LXS2_freyesav/
+  265  mv src LXS2_freyesav/
+  266  ls
+  267  cd LXS2_freyesav/
+  268  ls
+  269  tree
+  270  git status
+  271  ls
+  272  cd history
+  273  ls
+  274  cd ..
+  275  tree
+  276  cd hojasExcel
+  277  cd ..
+  278  ls
+  279  cd LSX2_freyesav/
+  280  ls
+  281  pwd
+  282  mv hojasDatos LXS2_freyesav
+  283  cd ..
+  284  ls
+  285  cd LXS2_freyesav/
+  286  ls
+  287  cd history
+  288  ls
+  289  cd ..
+  290  cd misc
+  291  ls
+  292  cd ..
+  293  cd problema1
+  294  ls
+  295  cd ..
+  296  cd problema2
+  297  ls
+  298  cd ..
+  299  cd src
+  300  ls
+  301  cd ..
+  302  cd tareas
+  303  ls
+  304  cd ..
+  305  ls
+  306  locate hojasDatos
+  307  cd ..
+  308  ls
+  309  locate hojasDatos
+  310  exit
+  311  locate hojasExcel
+  312  ls
+  313  cd LSX2_freyesav/
+  314  ls
+  315  cd LXS2_freyesav/
+  316  ls
+  317  cd ..
+  318  ls
+  319  cd LXS2_freyesav/
+  320  ls
+  321  mkdir hojasExcel
+  322  cd hojasExcel
+  323  touch datos1.xls
+  324  touch datos2.xls
+  325  touch datos3.xls
+  326  touch datos4.xls
+  327  touch datos5.xls
+  328  mkdir hojasDatos
+  329  cd ..
+  330  ls
+  331  cd hojasExcel
+  332  ls
+  333  mv hojasExcel/datos1.xls hojasDatos/datos1.xls
+  334  mv datos1.xls hojasDatos/datos1.xls
+  335  cd hojasDatos
+  336  ls
+  337  mv datos2.xls hojasDatos/datos2.xls
+  338  cd ..
+  339  mv datos2.xls hojasDatos/datos2.xls
+  340  mv datos3.xls hojasDatos/datos3.xls
+  341  mv datos4.xls hojasDatos/datos4.xls
+  342  mv datos5.xls hojasDatos/datos5.xls
+  343  ls
+  344  cd hojasDatos
+  345  ls
+  346  mkdir datos_CSV
+  347  cd datos_CSV
+  348  touch dato-0.csv
+  349  touch dato-0.out
+  350  touch dato-1.out
+  351  touch dato-1.csv
+  352  touch dato-2.csv
+  353  touch dato-2.out
+  354  touch dato-3.out
+  355  touch dato-3.csv
+  356  touch dato-4.csv
+  357  touch dato-4.out
+  358  cd ..
+  359  tree
+  360  ls
+  361  git status
+  362  git add hojasExcel
+  363  git add problema2
+  364  git add problema1
+  365  git status
+  366  git commit -m "Commit agregando ramas al Arbol de desarrollo"
+  367  git push origin master
+  368  git add problema1
+  369  git commit -m "Commit agregando rama problema1 al Arbol de desarrollo"
+  370  git push origin master
+  371  #git config --global user.email "freyes.av
+  372  #git config --global user.email "freyes.av@gmail.com"
+  373  #git config --global user.name "freyesav"
+  374  git add problema1
+  375  git commit -m "Commit agregando rama problema1 al Arbol de desarrollo"
+  376  git push origin master
+  377  git status
+  378  git checkout --history_290716
+  379  history
+  380  git add history_060816
+  381  ls
+  382  cd history
+  383  ls
+  384  git add history_060816
+  385  history > history_060816_$HOSTNAME
