@@ -1,0 +1,650 @@
+    1  apt-get install tree
+    2  ping 8.8.8.8
+    3  ipv4 addrr
+    4  ip addrr
+    5  ifconfig
+    6  ip addrr ?
+    7  man ip
+    8  ipv4 addrr
+    9  ipv4 ?
+   10  ip ?
+   11  ipv4 -o
+   12  ifconfig -a
+   13  exit
+   14  tree
+   15  apt-get install tree
+   16  yum install tree
+   17  history
+   18  apt-get install tree
+   19  su
+   20  cd ..
+   21  clear
+   22  exit
+   23  ifconfig -a
+   24  exit
+   25  apt-get install tree 
+   26  ping yahoo.com
+   27  ping 8.8.8.8
+   28  ping 127.0.0.1
+   29  ping www.google.com
+   30  apt-get update
+   31  apt-get upgrade
+   32  apt-get install git
+   33  -bash apt-get install tree
+   34  clear
+   35  df -h
+   36  ?
+   37  help
+   38  apt-get install tree 
+   39  sudo apt-get install tree
+   40  ping yahoo.com
+   41  ifconfig
+   42  su sysadmin
+   43  apt-get install tree
+   44  exit
+   45  sudo rpm -Uhv http://pacages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rfx86_64.rpm
+   46  ping 8.8.8.8
+   47  nmclid
+   48  exit
+   49  ping 8.8.8.8
+   50  sudo rpm -Uhv http://pacages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rfx86_64.rpm
+   51  ping 8.8.8.8
+   52  sudo rpm -Uhv http://pacages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rfx86_64.rpm
+   53  sudo rpm -Uhv http://packages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rfx86_64.rpm
+   54  rpm -Uhv http://packages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rfx86_64.rpm
+   55  yum update
+   56    sudo yum install catdog
+   57  xls2scv
+   58   clear
+   59  catdog
+   60  yum install catdog
+   61  ping 8.8.8.8
+   62  yum install catdoc
+   63   sudo yum install catdoc
+   64  pwd
+   65  tree
+   66  cd ..
+   67  exit
+   68  yum install tree
+   69  tree
+   70  mkdir history
+   71  cd hostory
+   72  cd history
+   73  mkdif history
+   74  tree
+   75  exit
+   76  tree
+   77  mkdir history
+   78  ls
+   79  cd history
+   80  mkdir history
+   81  cd ..
+   82  tree
+   83  ls
+   84  mkdir hojasExcel
+   85  tree
+   86  cd hojasExcel
+   87  mkdir hojasDatos
+   88  cd hojasDatos
+   89  touch datos.xls {1,2,3,4,5}
+   90  tree
+   91  rm 1
+   92  tree
+   93  rm 2
+   94  rm 3
+   95  rm 4
+   96  rm 5
+   97  tree
+   98  rm datos .xls
+   99  tree
+  100  cd ..
+  101  tree
+  102  cd hojasDatos
+  103  exit
+  104  tree
+  105  rm datos.xls
+  106  ls
+  107  cd hojasDatos
+  108  cd hojasExcel
+  109  ls
+  110  cd hojasDatos
+  111  ls
+  112  rm datos.xls
+  113  ls
+  114  cd ..
+  115  ls
+  116  cd hojasDatos
+  117  pwd
+  118  ls
+  119  touch datos1.xls
+  120  touch datos2.xls
+  121  touch datos3.xls
+  122  touch datos4.xls
+  123  touch datos5.xls
+  124  touch datos_CSV
+  125  cd datos_CSV
+  126  rm datos_CSV
+  127  tree
+  128  cd ..
+  129  tree
+  130  clear
+  131  exit
+  132  tree
+  133  cd hojasDatos
+  134  cd  history
+  135  ls
+  136  cd history
+  137  ls
+  138  cd ..
+  139  cd hojasExcel
+  140  ls
+  141  cd ..
+  142  ls
+  143  cd hojasExcel
+  144  cd hojasDatos
+  145  pwd
+  146  mkdir datos_CSV
+  147  cd datos_CSV
+  148  touch dato-0.csv
+  149  touch dato-0.out
+  150  touch dato-1.csv
+  151  touch dato-1.out
+  152  touch dato-2.csv
+  153  touch dato-2.out
+  154  touch dato-3.csv
+  155  touch dato-3.out
+  156  touch dato-4.csv
+  157  touch dato-4.out
+  158  cd ..
+  159  tree
+  160  cd ..
+  161  tree
+  162  mk src
+  163  mkdir src
+  164  tree
+  165  cd src
+  166  touch error1.log
+  167  touch error2.log
+  168  touch graficar.sh
+  169  cd ..
+  170  tree
+  171  cd ..
+  172  tree
+  173  mkdir problema2
+  174  tree
+  175  cd problema2
+  176  touch bills01_2012.xls
+  177  touch bills02_2012.xls
+  178  touch bills03_2012.xls
+  179  touch bills04_2012.xls
+  180  touch bills05_2012.xls
+  181  touch bills06_2012.xls
+  182  cd ..
+  183  tree
+  184  mkdir problema1
+  185  cd problema1
+  186  mkdir datos
+  187  cd ..
+  188  tree
+  189  mkdir src
+  190  cd src
+  191  touch problema2.sh
+  192  touch problema1.sh
+  193  touch SpecVar.sh
+  194  touch traSSh.sh
+  195  touch script1.sh
+  196  tree
+  197  cd ..
+  198  tree
+  199  git status
+  200  ls
+  201  git status
+  202  .
+  203  man .
+  204  clear
+  205  yum install git
+  206  yum -y update
+  207   yum install catdoc
+  208  yum install xls2csv
+  209  yum install catdoc
+  210  yum groupinfo 'GNOME Desktop Enviroment'
+  211  yum groupinfo 'X Window System'
+  212  yum groupinstall 'GNOME Desktop Enviroment'
+  213  yum groupinstall 'GNOME Desktop Environment'
+  214  sudo rpm -Uhv http://packages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.rfx86_64.rpm
+  215  sudo rpm -Uhv http://packages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rf.x86_64.rpm
+  216  sudo yum update
+  217  sudo yum install catdoc
+  218  git clone http://github.com/freyesav/LXS2_freyesav.git
+  219  ls
+  220  cd LXS2_freyesav/
+  221  ls
+  222  rm history_290716 history
+  223  rm history history_290716 
+  224  clear
+  225  ls
+  226  cd history
+  227  ls
+  228  cd history
+  229  cd ..
+  230  ls
+  231  cd ..
+  232  exit
+  233  ls
+  234  tree
+  235  git status
+  236  cd LXS2_freyesav/tree
+  237  ls
+  238  git status
+  239  yum install git
+  240  cd LXS2_freyesav/
+  241  ls
+  242  git status
+  243  tree
+  244  ls
+  245  cd ..
+  246  ls
+  247  tree
+  248  man ls
+  249  ls -T
+  250  ls
+  251  man tree
+  252  tree -L
+  253  tree
+  254  exit
+  255  tree
+  256  git status
+  257  ls
+  258  cd LXS2_freyesav/ls
+  259  cd LXS2_freyesav
+  260  ls
+  261  cd ..
+  262  mv hojasExcel LSX2_freyesav
+  263  mv problema1 LXS2_freyesav/
+  264  mv problema2 LXS2_freyesav/
+  265  mv src LXS2_freyesav/
+  266  ls
+  267  cd LXS2_freyesav/
+  268  ls
+  269  tree
+  270  git status
+  271  ls
+  272  cd history
+  273  ls
+  274  cd ..
+  275  tree
+  276  cd hojasExcel
+  277  cd ..
+  278  ls
+  279  cd LSX2_freyesav/
+  280  ls
+  281  pwd
+  282  mv hojasDatos LXS2_freyesav
+  283  cd ..
+  284  ls
+  285  cd LXS2_freyesav/
+  286  ls
+  287  cd history
+  288  ls
+  289  cd ..
+  290  cd misc
+  291  ls
+  292  cd ..
+  293  cd problema1
+  294  ls
+  295  cd ..
+  296  cd problema2
+  297  ls
+  298  cd ..
+  299  cd src
+  300  ls
+  301  cd ..
+  302  cd tareas
+  303  ls
+  304  cd ..
+  305  ls
+  306  locate hojasDatos
+  307  cd ..
+  308  ls
+  309  locate hojasDatos
+  310  exit
+  311  tree
+  312  http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+  313  sudo -Uhv 
+  314  sudo -Uhv http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+  315  sudo -Uroot  http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+  316  sudo rpm -Uhv http://packages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rf.x86_64.rpm
+  317  yum update
+  318  sudo yum update
+  319  yum install catdoc
+  320  init 0
+  321  locate hojasExcel
+  322  ls
+  323  cd LSX2_freyesav/
+  324  ls
+  325  cd LXS2_freyesav/
+  326  ls
+  327  cd ..
+  328  ls
+  329  cd LXS2_freyesav/
+  330  ls
+  331  mkdir hojasExcel
+  332  cd hojasExcel
+  333  touch datos1.xls
+  334  touch datos2.xls
+  335  touch datos3.xls
+  336  touch datos4.xls
+  337  touch datos5.xls
+  338  mkdir hojasDatos
+  339  cd ..
+  340  ls
+  341  cd hojasExcel
+  342  ls
+  343  mv hojasExcel/datos1.xls hojasDatos/datos1.xls
+  344  mv datos1.xls hojasDatos/datos1.xls
+  345  cd hojasDatos
+  346  ls
+  347  mv datos2.xls hojasDatos/datos2.xls
+  348  cd ..
+  349  mv datos2.xls hojasDatos/datos2.xls
+  350  mv datos3.xls hojasDatos/datos3.xls
+  351  mv datos4.xls hojasDatos/datos4.xls
+  352  mv datos5.xls hojasDatos/datos5.xls
+  353  ls
+  354  cd hojasDatos
+  355  ls
+  356  mkdir datos_CSV
+  357  cd datos_CSV
+  358  touch dato-0.csv
+  359  touch dato-0.out
+  360  touch dato-1.out
+  361  touch dato-1.csv
+  362  touch dato-2.csv
+  363  touch dato-2.out
+  364  touch dato-3.out
+  365  touch dato-3.csv
+  366  touch dato-4.csv
+  367  touch dato-4.out
+  368  cd ..
+  369  tree
+  370  ls
+  371  git status
+  372  git add hojasExcel
+  373  git add problema2
+  374  git add problema1
+  375  git status
+  376  git commit -m "Commit agregando ramas al Arbol de desarrollo"
+  377  git push origin master
+  378  git add problema1
+  379  git commit -m "Commit agregando rama problema1 al Arbol de desarrollo"
+  380  git push origin master
+  381  #git config --global user.email "freyes.av
+  382  #git config --global user.email "freyes.av@gmail.com"
+  383  #git config --global user.name "freyesav"
+  384  git add problema1
+  385  git commit -m "Commit agregando rama problema1 al Arbol de desarrollo"
+  386  git push origin master
+  387  git status
+  388  git checkout --history_290716
+  389  history
+  390  git add history_060816
+  391  ls
+  392  cd history
+  393  ls
+  394  git add history_060816
+  395  history > history_060816_$HOSTNAME
+  396  ls
+  397  git add history_060816_localhost.localadmin
+  398  cd ..
+  399  git add history_060816_localhost.localadmin
+  400  git status
+  401  git add history_060816_localhost.localadmin
+  402  git add history_060816
+  403  ls
+  404  cd history
+  405  ls
+  406  cd ..
+  407  git add history_060816_localhost.localdomain
+  408  cd history
+  409  ls
+  410  git add history_060816_localhost.localdomain
+  411  git commit -m "Historial de creacion de ramas"
+  412  git config --global user.name "freyesav"
+  413  git config --global user.email "freyes.av@gmail.com"
+  414  git status
+  415  git commit -m "Historial de creacion de ramas"
+  416  git push origin master
+  417  cd ..
+  418  git add problema1
+  419  git status
+  420  git commit -m "Commit agregando rama problema1 al Arbol de desarrollo"
+  421  git push origin master
+  422   history
+  423  115
+  424  ifconfig
+  425  ip addr
+  426  tree
+  427  ls
+  428  cd LXS2_freyesav/
+  429  ls
+  430  cd hojasExcel
+  431  ls
+  432  cd hojasDatos
+  433  mkdir src
+  434  cd src
+  435  touch error1.log
+  436  touch error2.log
+  437  touch graficar.sh
+  438  cd ..
+  439  clear
+  440  tree
+  441  yum install catdoc
+  442  yum update
+  443  clear
+  444  gunzip catdoc-0.94.2.tar.gz tar xvf catdoc-0.94.2.tar
+  445  curl http://www.vozidea.com/archivo.zip
+  446  clear
+  447  yum install catdoc
+  448  curl http://www.vitus.wagner.pp.ru/software/catdoc
+  449  sudo -Uhv  http://www.vitus.wagner.pp.ru/software/catdoc
+  450  sudo -U  http://www.vitus.wagner.pp.ru/software/catdoc
+  451  sudo http://www.vitus.wagner.pp.ru/software/catdoc
+  452   http://www.vitus.wagner.pp.ru/software/catdoc-0.94.2.zip
+  453  cd ..
+  454   http://www.vitus.wagner.pp.ru/software/catdoc-0.94.2.zip
+  455  sudo apt-get install catdoc
+  456  sudo yum install catdoc
+  457  ping 8.8.8.8
+  458  sudo yum uodate
+  459  /bin/yum --help
+  460  sudo yum install http://cr.archive.ubuntu.com/ubuntu/precise/universe catdoc i386 0.94.2-2
+  461  catdoc
+  462  fdisk -l
+  463  mkdir /media/usb
+  464  ls -l /dev/sd*
+  465  mount -t vfat /dev/sdb /media/usb
+  466  mount -t ntfs /dev/sdb /media/usb
+  467  mount -t ntfs-3g /dev/sdb /media/usb
+  468  dmesg| tail
+  469  mount -t ntfs-3g /dev/sdb1 /media/usb
+  470  clear
+  471  clean
+  472  clear
+  473  ls media/usb
+  474  ls
+  475  cd ..
+  476  ls
+  477  cd media
+  478  ls
+  479  cd usb
+  480  ls
+  481  mount -t ntfs-3g /dev/sdb /media/usb
+  482  cd ..
+  483  mount -t ntfs-3g /dev/sdb /media/usb
+  484  ls -l /dev/sd*
+  485  mount -t vfat /dev/sdb /media/usb
+  486  dmesg| tail
+  487  cd ..
+  488  exit
+  489  ls
+  490  cd LXS2_freyesav/
+  491  ls
+  492  cd src
+  493  ls
+  494  cd ..
+  495  ls
+  496  cd problema1
+  497  ls
+  498  cd ..
+  499  cd src
+  500  ls
+  501  touch problema2.sh
+  502  touch problema1.sh
+  503  ls
+  504  tree
+  505  cd ..
+  506  tree
+  507  ifconfig
+  508  cd ..
+  509  ifconfig
+  510  ip addr
+  511  exit
+  512  ls
+  513  clear
+  514  mount -t vfat /dev/sdb /media/usb
+  515  ls -l /dev/sd*
+  516  ped
+  517  pwd
+  518  mkdir /media/usb
+  519  man mount
+  520  mount -a /dev/sdb /media/usb
+  521  cd media
+  522  ls
+  523  pwd
+  524  cd ..
+  525  ls
+  526  cd sysadmin
+  527  ls
+  528  cd ..
+  529  ls -l /dev/sd*
+  530  mount -a /dev/sdb /media/usb
+  531  ls
+  532  cd media
+  533  ls
+  534  cd usb
+  535  ls
+  536  cd ..
+  537  cd mnt
+  538  ls
+  539  cd ..
+  540  clear
+  541  history
+  542  cd ..
+  543  clear
+  544  sudo rpm -U http://packages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rf.x86_64.rpm
+  545  vim problema1.sh
+  546  yum install vim
+  547  vim problema1.sh
+  548  sudo rpm -U http://packages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rf.x86_64.rpm
+  549  ls
+  550  cd media
+  551  ls
+  552  cd usb
+  553  ls
+  554  cd ..
+  555  man mount
+  556  ls -l
+  557  ls -l /dev/sd*
+  558  mount -t vfat /dev/sdb /media/usb
+  559  mount -a  /dev/sdb /media/usb
+  560  ls media/usb
+  561  ls /media/usb
+  562  su -
+  563  ls /media/usb
+  564  ls
+  565  mkdir /media/usb
+  566  mount -a /dev/sdb /media/usb
+  567  ls /media/usb
+  568  ls
+  569  pwd
+  570  .
+  571  mount -a /dev/sdb1 /media/usb
+  572  ls /media/usb
+  573  ls -l /dev/sd*
+  574  /dev/sdb
+  575  sudo chmod 777 /dev/sdb
+  576  /dev/sdb
+  577  ls -l /dev/sd*
+  578  mount -a /dev/sdb /media/usb
+  579  ls /media/usb
+  580  cd /media/usb
+  581  ls
+  582  sudo chmod 777 /dev/sdb
+  583  dd opening /dev/sdb
+  584  opening /dev/sdb
+  585  clear
+  586  cd ..
+  587  ls -l
+  588  cd media
+  589  ls
+  590  cd usb
+  591  ls
+  592  cd ..
+  593  ls
+  594  ls -l
+  595  clear
+  596  ls /dev/sd*
+  597  cd /dev/sdb
+  598  clear
+  599  /dev/sdb
+  600  chmod 777 /dev/sdb
+  601  /dev/sdb
+  602  cd media
+  603  mount /dev/sdb /mdia/usb
+  604  mount /dev/sdb /media/usb
+  605  mount
+  606  ls -l
+  607  cd usb
+  608  ls
+  609  ls -l
+  610  fdisk -l
+  611  df
+  612  cd ..
+  613  ls
+  614  mount /dev/sdb /media/usb
+  615  mount -t vfat  /dev/sdb /media/usb
+  616  mount -t ntfs-3g  /dev/sdb /media/usb
+  617  mount -t vfat  /dev/sdb /media/usb
+  618  cd ..
+  619  ls /dev/media/usb
+  620  ls /dev/media/
+  621  ls /dev/sdb
+  622  sudo mount -a /dev/sdb /media/usb
+  623  ls
+  624  cd media
+  625  ls
+  626  cd usb
+  627  ls
+  628  sudo mount -t /dev/sdb /media/usb
+  629  sudo mount -t vfat /dev/sdb /media/usb
+  630  clear
+  631  cd ..
+  632  clear
+  633  su -
+  634  su sysadmin
+  635  sudo http://www.vitus.wagner.pp.ru/software/catdoc
+  636  gunzip catdoc-0.94.2.tar.gz tar xvf catdoc-0.94.2.tar
+  637  cd srcclear
+  638  clear
+  639  init 0
+  640  ls
+  641  cd LXS2_freyesav/
+  642  ls
+  643  tree
+  644  git status
+  645  git add hojasExcel/hojasDatos/src/
+  646  git add src/problema1.sh 
+  647  git add src/problema2.sh 
+  648  cd history
+  649  ls
+  650  history >history_060816pm
